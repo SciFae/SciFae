@@ -24,4 +24,9 @@ I’m a product-focused software engineer and designer specializing in data anal
 ## Just for fun :chart_with_upwards_trend:
 
 <!-- [![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=scifae)](https://github.com/scifae/github-readme-stats) -->
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scifae&layout=compact&theme=dark)](https://github.com/scifae/github-readme-stats) <p algin="right">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scifae&repo=scifae.github.io&theme=dark)](https://scifae.github.io)</p>
+<p align="left"> 
+ [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scifae&layout=compact&theme=dark)](https://github.com/scifae/github-readme-stats)
+</p> 
+<p align="right">
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scifae&repo=scifae.github.io&theme=dark)](https://scifae.github.io)
+</p>
