@@ -26,4 +26,4 @@ I’m a product-focused software engineer and designer specializing in data anal
 <!-- [![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=scifae)](https://github.com/scifae/github-readme-stats) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scifae&layout=compact&theme=dark" alt="Jessica Jane"/> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scifae&repo=scifae.github.io&theme=dark"><a target="_blank" href="https://scifae.github.io/" alt="Portfolio">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scifae&repo=scifae.github.io&theme=dark" target="_blank" href="https://scifae.github.io" alt="Portfolio">
