@@ -8,7 +8,7 @@ I’m a product-focused software engineer and designer specializing in data anal
 
 :bulb: I'm currently working on SaaS and software solutions across energy, finance, and supply-chain.
 
-:briefcase: I collaborate on fun projects at<a href="https://www.thebitfoundry.net"> @thebitfoundry</a>
+:briefcase: I collaborate on projects for fun at<a href="https://www.thebitfoundry.net"> @thebitfoundry</a>
 
 :rocket: I love all things SpaceX, Tesla, crypto, startups, and design
 
