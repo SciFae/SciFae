@@ -10,11 +10,9 @@ I’m a product-focused software engineer and designer specializing in data anal
 
 :briefcase: I collaborate on projects for fun at<a href="https://www.thebitfoundry.net"> @thebitfoundry</a>
 
-:rocket: I love all things SpaceX, Tesla, crypto, startups, and design
+:rocket: I love all things SpaceX, Tesla, crypto, startups, and design and hope I'll have time to blog about it some day
 
-:art: Sometimes I post things on my<a href="https://www.jessicajane.org"> website</a>
-
-:globe_with_meridians: You can send me a message <a href="https://jessicajane.org/contact/"> here</a>
+:globe_with_meridians: For project or collaboration inquiries you can send me a message <a href="mailto:hey@jessicajane.org" target="_blank"> here</a>
 
 ## Primary Languages and Tools :trophy:
 
