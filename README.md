@@ -1,20 +1,20 @@
-## Aloha, I'm <a href="https://www.jessicajane.org"> Jess!</a> :pineapple:
+## <h3 align="center">Aloha, I'm <a href="https://www.jessicajane.org"> Jess!</a></h3>
+<p align="center">
+  <a href="https://jessicajane.org" rel="nofollow">Website</a> •
+  <a href="https://www.linkedin.com/in/jessica-k/" rel="nofollow">LinkedIn</a>
+</p>
 
-I’m a product-focused software engineer and designer specializing in data analysis and visualization with Python, and full-stack development with JavaScript, TypeScript, Vue, Angular, & Node. I love user centric design, and building products that solve hard problems.
+I’m a product-focused software engineer and designer specializing in front-end development, data analysis and visualization. I love user centric design, and building products that solve hard problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of machine, and biological intelligence. :hatched_chick: I’m facinated by language, emotion, biology and technology and am always learning more about programming, IoT, and design.
 
-:earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of machine, and biological intelligence.
+:briefcase: I'm currently working at a startup building SaaS solutions with a focus on finance and supply-chain.
 
-:hatched_chick: I’m always learning more about programming, IoT, and design.
-
-:bulb: I'm currently working on SaaS and software solutions across energy, finance, and supply-chain.
+:rocket: I love all things SpaceX, Tesla, blockchain, art, startups, and design and hope I'll have time to blog about it some day
 
 :briefcase: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
-:rocket: I love all things SpaceX, Tesla, crypto, startups, and design and hope I'll have time to blog about it some day
+:globe_with_meridians: You can send me a message <a href="mailto:hey@jessicajane.org" target="_blank"> here</a>
 
-:globe_with_meridians: For project or collaboration inquiries you can send me a message <a href="mailto:hey@jessicajane.org" target="_blank"> here</a>
-
-## Primary Languages and Tools :trophy:
+## Current Stack :zap:
 
 <p><img height="20" src="https://raw.githubusercontent.com/SciFae/image-data/master/javascript.png" style="max-width:100%;">
 <a target="_blank" rel="noopener noreferrer"> <img height="20" src="https://raw.githubusercontent.com/SciFae/image-data/master/typescript.png" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer"> <img height="20" src="https://raw.githubusercontent.com/SciFae/image-data/master/nodejs.png" style="max-width:100%;"></a> <img height="20" src="https://raw.githubusercontent.com/SciFae/image-data/master/vue.png" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer"></p>
