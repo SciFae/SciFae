@@ -10,7 +10,7 @@ I’m a product-focused software engineer and designer specializing in front-end
 
 :rocket: I love all things SpaceX, Tesla, blockchain, art, startups, and design and hope I'll have time to blog about it some day
 
-:briefcase: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
+:art: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
 :globe_with_meridians: You can send me a message <a href="mailto:hey@jessicajane.org" target="_blank"> here</a>
 
