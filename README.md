@@ -8,7 +8,7 @@ I’m a product-focused software engineer and designer specializing in front-end
 
 :briefcase: I'm currently working at a startup building SaaS solutions with a focus on finance and supply-chain.
 
-:rocket: I love all things SpaceX, Tesla, blockchain, art, startups, and design and hope I'll have time to blog about it some day
+:rocket: I love all things SpaceX, Tesla, blockchain, art, startups, and design and occassionally I blog about it <a href="https://jessicajane.us14.list-manage.com/subscribe?u=2b6e6ecea769fea2cf7679642&id=f673055bf2" target="_blank">here</a> 
 
 :art: I collaborate on projects for fun at <a href="https://www.thebitfoundry.net">@thebitfoundry</a>
 
