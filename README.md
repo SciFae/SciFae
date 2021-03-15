@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jessica-k/" rel="nofollow">LinkedIn</a>
 </p>
 
-I’m a product-focused software engineer and designer specializing in front-end development, data analysis and visualization. I love user centric design, and building products that solve hard problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of machine, and biological intelligence. :hatched_chick: I’m facinated by language, emotion, biology and technology and am always learning more about programming, IoT, and design.
+I’m a product-focused software engineer specializing in front-end development, data analysis and visualization. I love user centric design, and building products that solve hard problems. :earth_africa: I’m passionate about how data impacts enterprise and the individual, and the interface of machine, and biological intelligence. :hatched_chick: I am always learning more about programming, IoT, and design.
 
 :briefcase: I'm currently working at a startup building SaaS solutions with a focus on finance and supply-chain.
 
