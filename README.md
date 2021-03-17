@@ -23,4 +23,3 @@ I’m a product-focused software engineer specializing in front-end development,
 
 [![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=scifae&theme=dark)](https://github.com/scifae/github-readme-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scifae&layout=compact&theme=dark" alt="Jessica Jane"/>
-
